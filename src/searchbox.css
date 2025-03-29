@@ -1,0 +1,22 @@
+.searchbox{
+    text-align: center;
+}
+#id{
+    background-color: white;
+}
+.large-input {
+    width: 300px;
+    height: 40px;
+    font-size: 18px;
+    padding: 8px;
+    border: 2px solid #ccc;
+    border-radius: 5px;
+  }
+.Heading{
+       color:  white;
+ }
+
+ .error{
+    font-size: 30px;
+    color: red;
+ }
