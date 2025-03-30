@@ -2,7 +2,6 @@ import React, { useState } from "react";
 import TextField from '@mui/material/TextField';
 import Button from '@mui/material/Button';
 import "./searchbox.css";
-import { set } from "mongoose";
 import { red } from "@mui/material/colors";
 
 export default function SearchBox({updateInfo}){
